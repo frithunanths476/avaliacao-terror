@@ -1,0 +1,13 @@
+.size {
+    background-color: #011E69;
+    min-height: 40px;
+    color: black;
+}
+
+.titulo {
+    padding: 10px;
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Baskerville Old Face";
+}
